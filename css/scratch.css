@@ -7,10 +7,6 @@ h3 {
     text-decoration: underline;
 }
 
-.copyright::after {
-    content:&copy;
-}
-
 .italy{
     font-style: italic;
 }
