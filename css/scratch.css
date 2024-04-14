@@ -19,6 +19,8 @@ h3 {
 
 .big {
     font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgray;
 }
 .Title {
     font-size: larger;
