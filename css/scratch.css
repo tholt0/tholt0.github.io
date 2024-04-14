@@ -22,7 +22,7 @@ h3 {
     font-size: larger;
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: blueviolet;
+    color: blueviolet;
 }
 
 body {
