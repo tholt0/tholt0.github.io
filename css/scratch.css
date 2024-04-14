@@ -10,3 +10,8 @@ h3 {
 .italy{
     font-style: italic;
 }
+
+.bold {
+    font-weight: Bold;
+    font-size: medium;
+}
