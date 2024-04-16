@@ -27,6 +27,7 @@ h3 {
     text-decoration: underline;
     color: blueviolet;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    position: static;
 }
 
 body {
